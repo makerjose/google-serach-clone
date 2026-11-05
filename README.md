@@ -7,3 +7,4 @@ Export multiple components from one file.
 ## Default export:
 A file can have only one default export.
 
+## Link: https://makerjose.github.io/google-serach-clone/
