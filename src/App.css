@@ -1,0 +1,51 @@
+.app {
+  text-align: center;
+  margin-top: 150px;
+  font-family: Arial, sans-serif;
+}
+
+.google-logo {
+  font-size: 80px;
+  margin-bottom: 30px;
+}
+
+.search-container {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  width: 500px;
+  max-width: 90%;
+}
+
+.search-container input {
+  flex: 1;
+  min-width: 0;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 25px 0 0 25px;
+  font-size: 16px;
+}
+
+.search-container button {
+  padding: 15px 20px;
+  background-color: #4285f4;
+  color: white;
+  border: none;
+  border-radius: 0 25px 25px 0;
+  cursor: pointer;
+}
+
+
+.frequent-sites {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin-top: 40px;
+}
+
+.frequent-sites a {
+  text-decoration: none;
+  color: black;
+  text-align: center;
+}
+
